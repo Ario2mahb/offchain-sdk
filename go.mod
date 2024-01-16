@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/alitto/pond v1.8.3
-	github.com/aws/aws-sdk-go-v2 v1.23.1
+	github.com/aws/aws-sdk-go-v2 v1.98.1
 	github.com/aws/aws-sdk-go-v2/config v1.18.45
 	github.com/aws/aws-sdk-go-v2/service/kms v1.26.3
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.28.2
